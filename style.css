@@ -1,0 +1,27 @@
+.center {
+	text-align: center;
+}
+
+#a1, #a2, #a3, #a4{
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	margin: 1rem;
+}
+
+#a1 {
+	background-color: red; 
+}
+#a2 {
+	background-color: blue;
+}
+#a3 {
+	background-color: green;
+}
+#a4 {
+	background-color: yellow;
+}
+
+.highlight{
+	opacity: 0.5;
+}
